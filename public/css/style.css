@@ -1,0 +1,43 @@
+#hero-photo-one {
+    background-image: url("/photos/hero_photo_one.jpg");
+    /* max-width: 100%;
+    min-width: 100%; */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#navbar_black {
+    background-color: rgb(13,27,68);
+}
+
+#hero-photo-two {
+    background-image: url("/photos/hero_image_four.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+}
+
+#card-body {
+    border: none;
+}
+
+#label-font {
+    color: white;
+}
+
+#dream-container {
+    background-color: rgba(0, 0, 0, 0.58)
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.6)
+}
+
+.table {
+    border: none;
+}
